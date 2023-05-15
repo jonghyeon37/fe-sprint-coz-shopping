@@ -29,7 +29,7 @@ function Header() {
           <img src={menu} />
           <ul className={`menu_modal ${isOn ? "open" : ""}`}>
             <li>
-            <Link to="/">OOO님, 안녕하세요!</Link>
+            <Link to="/">OOO님, 안녕하세요!!</Link>
             </li>
             <li>
               <Link to="/list"><img src={list} />상품리스트 페이지</Link>

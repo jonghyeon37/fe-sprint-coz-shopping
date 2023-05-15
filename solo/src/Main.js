@@ -16,7 +16,7 @@ function Main() {
         </div>
       </div>
       <div className="book">
-        <h2>북마크 리스트</h2>
+        <h2>북마크 리스트1</h2>
         <div className='contents'>
           <Product />
           <Category />
